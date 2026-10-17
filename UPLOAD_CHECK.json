@@ -1,0 +1,88 @@
+{
+  "version": "V2.2",
+  "rulesVersion": "3.25",
+  "maxFileBytesExclusive": 20000000,
+  "allFilesUnderLimit": true,
+  "largestFile": {
+    "path": "library/batch-007/pages.json",
+    "bytes": 17990113
+  },
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0
+    },
+    {
+      "path": "assets/main-B7TC6rye.js",
+      "bytes": 1296016
+    },
+    {
+      "path": "assets/main-EVEi6Eme.css",
+      "bytes": 31399
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 712
+    },
+    {
+      "path": "index.html",
+      "bytes": 477
+    },
+    {
+      "path": "library/batch-001/pages.json",
+      "bytes": 17741495
+    },
+    {
+      "path": "library/batch-002/pages.json",
+      "bytes": 17862284
+    },
+    {
+      "path": "library/batch-003/pages.json",
+      "bytes": 17935254
+    },
+    {
+      "path": "library/batch-004/pages.json",
+      "bytes": 17939996
+    },
+    {
+      "path": "library/batch-005/pages.json",
+      "bytes": 17908675
+    },
+    {
+      "path": "library/batch-006/pages.json",
+      "bytes": 17924549
+    },
+    {
+      "path": "library/batch-007/pages.json",
+      "bytes": 17990113
+    },
+    {
+      "path": "library/batch-008/pages.json",
+      "bytes": 17983449
+    },
+    {
+      "path": "library/batch-009/pages.json",
+      "bytes": 9128600
+    },
+    {
+      "path": "library/catalog.json",
+      "bytes": 926878
+    },
+    {
+      "path": "library-data/part-001.js",
+      "bytes": 17500095
+    },
+    {
+      "path": "library-data/part-002.js",
+      "bytes": 4538839
+    },
+    {
+      "path": "life-calculator.html",
+      "bytes": 380
+    },
+    {
+      "path": "README.md",
+      "bytes": 498
+    }
+  ]
+}
