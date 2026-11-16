@@ -1,6 +1,5 @@
 {
-  "version": "V2.2",
-  "rulesVersion": "3.25",
+  "version": "TRPG3.25_V2.3",
   "maxFileBytesExclusive": 20000000,
   "allFilesUnderLimit": true,
   "largestFile": {
@@ -13,12 +12,12 @@
       "bytes": 0
     },
     {
-      "path": "assets/main-B7TC6rye.js",
-      "bytes": 1296016
+      "path": "assets/main-B_IR2xZh.js",
+      "bytes": 1299218
     },
     {
-      "path": "assets/main-EVEi6Eme.css",
-      "bytes": 31399
+      "path": "assets/main-DLAci-U3.css",
+      "bytes": 31828
     },
     {
       "path": "favicon.svg",
@@ -26,7 +25,15 @@
     },
     {
       "path": "index.html",
-      "bytes": 477
+      "bytes": 445
+    },
+    {
+      "path": "library-data/part-001.js",
+      "bytes": 17500095
+    },
+    {
+      "path": "library-data/part-002.js",
+      "bytes": 4538839
     },
     {
       "path": "library/batch-001/pages.json",
@@ -69,20 +76,12 @@
       "bytes": 926878
     },
     {
-      "path": "library-data/part-001.js",
-      "bytes": 17500095
-    },
-    {
-      "path": "library-data/part-002.js",
-      "bytes": 4538839
-    },
-    {
       "path": "life-calculator.html",
-      "bytes": 380
+      "bytes": 348
     },
     {
       "path": "README.md",
-      "bytes": 498
+      "bytes": 463
     }
   ]
 }
